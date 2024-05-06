@@ -24,8 +24,8 @@ step 6.Stop.
 ```
 /*
 Program to implement the SVM For Spam Mail Detection..
-Developed by: AADITHYA R
-RegisterNumber:  212223240001
+Developed by: KISHORE KUMAR U
+RegisterNumber:  212222233003
 */
 
 import pandas as pd
